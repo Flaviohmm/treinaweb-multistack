@@ -5,7 +5,7 @@ import {
     UserDescription,
     AvatarStyled,
     RatingStyled
-} from "./UserInformation.style"
+} from "./UserInformation.style";
 
 interface UserInformationProps {
     picture: string;
